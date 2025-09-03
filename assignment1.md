@@ -35,7 +35,7 @@
    * The data visualizations and other graphics were simple and put the most important pieces of information on the forefront.
    * The use of type and color certainly made sense. For example:
       * Type: Score of 5
-         * The fonts were appropriate, readable, and sized well. They were emboldened or underlined at appropriate times to make important data or other information stand out.
+         * The fonts were appropriate, readable, and sized well. They were boldened or underlined at appropriate times to make important data or other information stand out.
       * Color: Score of 5
          * Color was also used well in this piece. It demonstrated concepts that corresponded to the color used in the various data visualizations and graphics. Shades of red were used often to represent fire risk. Color gradients from deep red into brown were also used to indicate areas of high and low fire risk, respectively. 
 
