@@ -48,7 +48,7 @@
 
 |              |Central Insight |Data Visualization |Accuracy |Quality |Type |Color |Creativity |
 |--------------|----------------|-------------------|---------|--------|-----|------|-----------|
-|  Score       |        5       |             4     |    4    |   5    |  5  |  5   |     5     |
+|  **Score**   |        5       |             4     |    4    |   5    |  5  |  5   |     5     |
 
 
 
