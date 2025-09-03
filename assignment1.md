@@ -21,7 +21,13 @@
    * There were no specific areas where I questioned the data's accuracy.
    * Much of the data comes from U.S. Forest Service. I would suggest the reporter check a few with this source to clear up potentially confusing terms and concepts.
    * Yes, the story provided sources for the data within the text.
-   * I found some extra explanations to be necessary, as I highlighted above. The data story highlighted U.S. Forest Service as having simulated countless possible fire seasons to assess fire safety. More explanation should have been included to clear up what exactly this means and how it contributes to understanding the data. Still, this story did an excellent job of explaining the criteria for elements that affect the fire safety of an area, including age of the population, evacuation constraints, and ability of a county to digitally alert residents of a fire. 
+   * I found some extra explanations to be necessary, as I highlighted above. The data story highlighted U.S. Forest Service as having simulated countless possible fire seasons to assess fire safety. More explanation should have been included to clear up what exactly this means and how it contributes to understanding the data. Still, this story did an excellent job of explaining the criteria for elements that affect the fire safety of an area, including age of the population, evacuation constraints, and ability of a county to digitally alert residents of a fire.
+ 
+### Quality: Score of 5
+
+* This story was certainly executed to a high degree.
+   * The story flowed well and had little to no grammatical errors. The writing was captivating and the data was explained and analyzed well. One improvement I would like to highlight is that at some points the explanations were a bit lengthy and this story could have been trimmed up a bit, which would make it tighter. 
+
  
 
 
