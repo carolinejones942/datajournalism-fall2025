@@ -38,7 +38,11 @@
          * The fonts were appropriate, readable, and sized well. They were emboldened or underlined at appropriate times to make important data or other information stand out.
       * Color: Score of 5
          * Color was also used well in this piece. It demonstrated concepts that corresponded to the color used in the various data visualizations and graphics. Shades of red were used often to represent fire risk. Color gradients from deep red into brown were also used to indicate areas of high and low fire risk, respectively. 
- 
+
+### Creativity
+* This piece used aesthetic elements to good effect. These elements drew in the reader and amplified the data.
+   * Not only were the data visualizations good at conveying data, but they were also aesthetically pleasing to look at. The colors used were not too dull or bright; they were just right in the middle. For example, there was one particularly colorful map from USA Today featured in the piece (titled “U.S. Forest Service data shows wildfire hazard across the country). The map is informative and yet intriguing to look at.
+   * Effectiveness rating: 5
 
 
 
