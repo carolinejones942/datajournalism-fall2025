@@ -43,6 +43,8 @@
 * This piece used aesthetic elements to good effect. These elements drew in the reader and amplified the data.
    * Not only were the data visualizations good at conveying data, but they were also aesthetically pleasing to look at. The colors used were not too dull or bright; they were just right in the middle. For example, there was one particularly colorful map from USA Today featured in the piece (titled “U.S. Forest Service data shows wildfire hazard across the country). The map is informative and yet intriguing to look at.
    * Effectiveness rating: 5
+   
+### Summary of Critique
 
 
 
