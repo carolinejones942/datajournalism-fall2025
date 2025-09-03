@@ -28,6 +28,7 @@
 * This story was certainly executed to a high degree.
    * The story flowed well and had little to no grammatical errors. The writing was captivating and the data was explained and analyzed well. One improvement I would like to highlight is that at some points the explanations were a bit lengthy and this story could have been trimmed up a bit, which would make it tighter. 
 
+
  
 
 
