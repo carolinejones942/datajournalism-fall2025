@@ -17,3 +17,8 @@
   * USDA - farm data
   * FEMA - disaster data
   * DoJ - crime statistics through the FBI
+* FOIA - documents must be available upon request
+  * there are 9 FOIA exemptions:
+    * 5: communications between companies that is not relevent to their work
+    * "drafts" of documents
+    * info compiled for law enforcement purposes
