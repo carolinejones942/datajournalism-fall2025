@@ -54,6 +54,8 @@
 
 ### Title of pitch: “Is Homeschooling Growing in the United States? And Why?”
 
+* The title of my pitch also serves as the interesting question I want to answer. *What are the statistics on the growth of homeschooling as an education practice? If it is in fact growing, why? And if not, why not?*
+
 
 
 
