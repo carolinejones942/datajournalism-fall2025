@@ -52,6 +52,8 @@
 
 ## Pitch For Final Project: Caroline Jones
 
+### Title of pitch: “Is Homeschooling Growing in the United States? And Why?”
+
 
 
 
