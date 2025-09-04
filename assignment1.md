@@ -63,6 +63,8 @@
 2. Current events surrounding the Department of Education
 3. The social media “trad-wife” movement
 
+* There are a plethora of people in my community I can discuss this topic with. I was homeschooled and know a lot of homeschool students, graduates, and parents.
+* I believe there are many reasons why homeschooling is getting more popular and less stigmatized and I would love to explore them through data analysis. 
 
 
 
