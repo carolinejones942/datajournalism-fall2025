@@ -17,6 +17,11 @@
   * USDA - farm data
   * FEMA - disaster data
   * DoJ - crime statistics through the FBI
+  * Non-profits - research data
+  * Think tanks
+    * CRS - congress think tank
+  * Academics - researchers, professors
+  * 990 IRS report - donors, expenses for organizations
 * FOIA - documents must be available upon request
   * there are 9 FOIA exemptions:
     * 5: communications between companies that is not relevent to their work
