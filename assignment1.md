@@ -59,6 +59,10 @@
    * Source: [Fast Facts](https://nces.ed.gov/fastfacts/display.asp?id=91)
 * This story is timely now as it has relation to several important current events:
 
+1. The school shooting crisis
+2. Current events surrounding the Department of Education
+3. The social media “trad-wife” movement
+
 
 
 
