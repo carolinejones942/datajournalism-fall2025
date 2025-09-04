@@ -27,3 +27,5 @@
     * 5: communications between companies that is not relevent to their work
     * "drafts" of documents
     * info compiled for law enforcement purposes
+* Data types
+  * CSV (comma separated value) is the most common / easy to use data type 
