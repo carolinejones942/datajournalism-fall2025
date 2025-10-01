@@ -5,3 +5,4 @@
 [Washington Post data - Homeschooling on the state level](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_state.csv)
 
 # Story Research 
+## by Caroline Jones, Sophie Liebeck, and Sara Voneisengrein
