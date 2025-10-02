@@ -18,3 +18,23 @@
 
 # Story Research 
 ## by Caroline Jones, Sophie Liebeck, and Sara Voneisengrein
+### Summary of stories related to homeschool growth
+
+Links to stories:
+1. [Johns Hopkins University - Homeschool Growth: 2023-2024](https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/homeschool-growth-2023-2024/)
+2. [Education Next - New U.S. Census Bureau Data Confirm Growth in Homeschooling Amid Pandemic](https://www.educationnext.org/new-u-s-census-bureau-data-confirm-growth-in-homeschooling-amid-pandemic/)
+3. [Washington Post - Home schooling’s rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/?itid=sr_0_256cc5e7-1002-48ce-b7b7-573ea0e674dd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
