@@ -13,7 +13,8 @@
    5. I selected "Show Values As", and set the "Base Field" to "year" and the "Base item" to "previous", so that the table showed percentage changes.
    6. I then made another pivot table following steps i-iii.
    7. I compared the tables to ensure that excel was doing the math correctly.
-   8. I found the school year with the highest percentage change from the previous year to answer the question. 
+   8. I found the school year with the highest percentage change from the previous year to answer the question.
+5. The answer to our question was that the school year with the most growth from the previous year was the 2020-21 year. It had a 196.40% increase in homeschool participation from the 2019-20 school year.
 
 # Story Research 
 ## by Caroline Jones, Sophie Liebeck, and Sara Voneisengrein
