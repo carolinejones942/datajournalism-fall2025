@@ -36,6 +36,9 @@ Links to stories:
   2. [Washington Post data - state level](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_state.csv)
   3. [National Center for Education Statistics data set](https://american0-my.sharepoint.com/:x:/g/personal/sv9245a_american_edu/EayJmLI5fMBFu428wADTjk0BSONQl30LVoYphpJZWx6PUg?rtime=EzaDiFsB3kg)
 
+The data sets are reliable as they all have been gathered via governmental organizations and come from governmental databases and have been checked over by multiple professional sources. If they weren’t collected by a government organization they were gathered by a reliable and transparent news network. You can tell this by the proper formatting of the data and the extensive labeling. Such as the proper input of state abbreviations in data sets 1 and 2 and the disclaimers provided data set number 3. However they contain a few limitations, these include data set one doesn’t include every state. The second data set doesn’t have the same years for every state which can make data comparisons difficult. Also only includes up to the year of 2023. These data sets could also hold bias as they were collected by a news company. Finally data set number 3’s number one limitation is it is solidly outdated as it is from 2003. We also don’t know the area they are covering and where for sure the people were polled.
+
+
 
 
 
