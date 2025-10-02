@@ -29,6 +29,13 @@ Links to stories:
 
    Based on these articles, data on homeschooling rates both pre and post pandemic have been looked at, as well as rates of homeschooling in individual states. The articles also covered trends in recent years. Finally, the articles pose conflicting views about the causes of the increase, so we would need to do further research on causes. But what there is no information on, is the reasons parents give for choosing to homeschool their children, and how their thoughts on the subjects have changed in recent years.
 
+   ### Three data sets to use in our story
+
+  #### Links
+  1. [Washington Post data - district level](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_district.csv)
+  2. [Washington Post data - state level](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_state.csv)
+  3. [National Center for Education Statistics data set](https://american0-my.sharepoint.com/:x:/g/personal/sv9245a_american_edu/EayJmLI5fMBFu428wADTjk0BSONQl30LVoYphpJZWx6PUg?rtime=EzaDiFsB3kg)
+
 
 
 
