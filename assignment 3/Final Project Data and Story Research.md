@@ -9,7 +9,7 @@
    1. The "state" heading was put under "Filters" and filtered to D.C.
    2. The "year" column was put under "Rows".
    3. The "homeschool_students" heading was put under "Values" and changed to sum, instead of count.
-   4. I right-clicked the colomn with the sum of homeschool students and selected "Value Field Settings"
+   4. I right-clicked the column with the sum of homeschool students and selected "Value Field Settings"
    5. I selected "Show Values As", and set the "Base Field" to "year" and the "Base item" to "previous", so that the table showed percentage changes.
    6. I then made another pivot table following steps i-iii.
    7. I compared the tables to ensure that excel was doing the math correctly.
