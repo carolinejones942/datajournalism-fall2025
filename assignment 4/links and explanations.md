@@ -6,4 +6,6 @@
 
 The main problem with this data visualization was the visual clutter. It was so cluttered that any of the information provided was completely diluted. I decided to focus in on the dog ownership aspect of this data visualization because I thought that was the most interesting part. I used a bar charts of the top ten countries that have the highest percentage of household dog ownership. More similar charts could be made to show data from other countries and different pets.
 
-2. [Most Popular Valentine's Candy by State](https://www.candystore.com/blogs/holidays/valentines-candy-popular-states) - the third data visualization featured 
+2. [Most Popular Valentine's Candy by State](https://www.candystore.com/blogs/holidays/valentines-candy-popular-states) - the third data visualization featured
+
+For this visualization, I changed the type of graph to a line chart because I thought the line chart would better show the comparison of the percentages of total valentine candy spending. Specifically, the point of the first chart was to highlight the years when chocolates overtook conversation hearts. I believe a line chart makes it more clear that those years were 2019 and 2020. 
