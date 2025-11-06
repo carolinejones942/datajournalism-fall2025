@@ -5,3 +5,5 @@
 9/11 - [National Guard documents show public 'fear,' veteran's 'shame' over D.C. presence](https://www.washingtonpost.com/national-security/2025/09/10/national-guard-trump-dc/) 
 
 9/25 - [Why 1 in 6 U.S. parents are rejecting vaccine recommendations](https://www.washingtonpost.com/health/2025/09/15/childhood-vaccines-parents-post-kff-poll/) 
+
+11/6 - [Your diet's impact on the planet depends on where you live. Look up your city.](https://www.washingtonpost.com/climate-environment/interactive/2025/meat-beef-climate-impact/?itid=sf_climate-environment_package-1_1_0)
