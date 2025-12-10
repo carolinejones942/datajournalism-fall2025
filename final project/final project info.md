@@ -1,6 +1,6 @@
 # Comm-260 Final Project: Analysis of Homeschooling in the U.S. Story Pitch and Data Visualizations
 
-## By Sophie Liebeck, Sara Voneisengrein, and Caroline Jones
+## By Sophie Liebeck, Sara VonEisengrein, and Caroline Jones
 
 ### Steps used to analyze the data
 
