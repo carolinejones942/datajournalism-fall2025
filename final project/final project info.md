@@ -20,6 +20,8 @@ Our main finding when we analyzed the data was that districts with a higher popu
 
 #### Proposed nut graf
 
+Our analysis of a random sampling of school districts obtained from the NCES showed an overwhelmingly clear relationship between districts racial demographics and the homeschool population. The districts containing the higher populations of home school students showed to be often majority white. In comparison, more diverse school districts oftentimes had smaller home school populations. While there are some outliers overall, the data overwhelmingly supports our initial hypothesis. 
+
 ### Data sources
 
 1. [Count of homeschool students by district, Washington Post](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_district.csv) - We used the most recent count from each district (2021-2023)
