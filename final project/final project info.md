@@ -20,5 +20,8 @@
 
 ### Data sources
 
+1. [Count of homeschool students by district, Washington Post](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_district.csv)
+2. [Demographic Data by district, National Center for Education Statistics](https://nces.ed.gov/programs/edge/TableViewer/acsProfile/2022)
+
 ### Plans for how you would report and structure this story if given more time
 
