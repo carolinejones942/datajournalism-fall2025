@@ -16,6 +16,8 @@
 
 ### Findings from the data
 
+Our main finding when we analyzed the data was that districts with a higher population of home schooled students are more likely to have a majority white population. Looking at the data, there are four districts with a homeschool population over 1%, and three of those districts are over 70% white. While the district with the highest population of homeschool students – Marshall County School District, MS with 1.77% – is only 61.5% white, followed by 30.2% black, this is the biggest outlier. The next three highest districts, all still with a home school population over 1%, are 70.6%, 93.5%, and 85.2% white. Further, Downey Unified School District in California has the population that is the least white, at only 36.3%, and also has the lowest homeschool population at just 0.06%. As for the data visualization, the data is heavily skewed left, with a heavy concentration of data points indicating high white populations. While this is just a random sample of 25 districts from across the country, this data does confirm our hypothesis that white populations are more likely to homeschool their children than populations of color.
+
 #### Proposed nut graf
 
 ### Data sources
