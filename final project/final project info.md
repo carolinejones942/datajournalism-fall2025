@@ -33,3 +33,14 @@ Our analysis of a random sampling of school districts obtained from the NCES sho
 
 ### Plans for how you would report and structure this story if given more time
 
+Firstly, we would like to acknowledge that the NCES data set had a wealth of demographic data that we did not have the resources to assess, given the time constraints. We believe journalists can and should use this data to create more stories about the demographics of homeschooling.
+
+That being said, we believe that our findings, regarding the races of districts with a higher rates of homeschooling, are significant and newsworthy. Below are some plans for how we would like to report it. 
+
+1. If given more time, the first thing we would do is continue working with the data. We would like to change our small sample to have a data entry for every county that the Washington Post counted. Other demographics we would like to assess once we have compiled the data into one spreadsheet are age and income. We also would like to look into data showing the main reasons why people homeschool and how those change in each district. But, this specific story focuses on race, and thus, for this story, that is what we will be reporting on.
+2. We want to make sure readers understand how we got to the rate of homeschool students in the district - homeschool students divided by total population. Specifically, we would like to clarify that those numbers are the percentage of homeschool students in the total population of a given district, not the percentage of homeschool students in the number of students in a district. 
+3. Similarly, we would like to walk the reader through how we got the data, including the sources and potential pitfalls of the data. One potential pitfall of this data is the accuracy of the Washington Post count of students. In that way, we would like to situate our story as a launching point for more exploration into homeschooling demographic data, not an end all be all for the topic. 
+4. We would like to “personalize” this data by including interviews with homeschool parents of diverse backgrounds, and featuring their stories about, reasons for, and overall experience with homeschooling. In addition to this, we would like to use a narrative lead about a specific interviewee to open our story.
+5. In terms of structure, we believe that a martini-glass structure makes the most sense for this story. We plan to open up with a narrative lead and then use an inverted pyramid to go over the major details before getting into the specifics, as a martini-glass story structure does. 
+
+
